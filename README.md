@@ -1,5 +1,5 @@
 # Auroville-Consulting
-Scripts and files used for auroville consulting
+Scripts and files used for AgriPV Analysis site evaluation for India.
 
 
 
